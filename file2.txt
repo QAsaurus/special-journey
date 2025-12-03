@@ -1,3 +1,4 @@
 очень конфликтный файл
- стал ещё конфликтнее
-[PLACEHOLDER_LINE_3]
+[MAIN_PLACEHOLDER]
+========================
+[DEMO_PLACEHOLDER]
